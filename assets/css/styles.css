@@ -1,5 +1,1 @@
 /* Add a new line after anchors */
-body > main > a:after {
-    content:"\a";
-    white-space:pre;
-}
