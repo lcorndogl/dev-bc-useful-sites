@@ -1,1 +1,24 @@
+/* Palette */
+/* https://www.color-hex.com/color-palette/1009880 */
+
+
 /* Add a new line after anchors */
+
+body {
+    background-color: #555555;
+}
+
+.accordion-button, .accordion-button:not(.collapsed) {
+    background-color: #0e3768;
+    color: #f1f2f6;
+}
+
+.accordion-item {
+    background-color: #b0d8e3;
+    font-weight: bold;
+
+}
+
+/* .accordion-item a {
+    color:#efe897;
+} */
