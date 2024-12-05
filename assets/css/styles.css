@@ -1,8 +1,9 @@
 /* Palette */
 /* https://www.color-hex.com/color-palette/1009880 */
 
-
-/* Add a new line after anchors */
+.navbar {
+    background-color: #0e3768;
+}
 
 body {
     background-color: #555555;
@@ -10,7 +11,7 @@ body {
 
 .accordion-button, .accordion-button:not(.collapsed) {
     background-color: #0e3768;
-    color: #f1f2f6;
+    color: #efe897;
 }
 
 .accordion-item {
